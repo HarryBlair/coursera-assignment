@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #D3D3D3;
 }
 
 h1 {
@@ -19,7 +20,7 @@ main {
     margin: 20px;
     padding: 20px;
     background-color: #f7f7f7;
-    border: 1px solid #ccc;
+    border: 1px solid #8a1212;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     float: left;
 }
