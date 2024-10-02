@@ -44,6 +44,7 @@ main {
 @media (min-width: 992px) {
     .section {
         width: 28%;
+        white-space: nowrap;
         display: inline;
     }
 }
