@@ -30,6 +30,7 @@ main {
 .section-title {
     position: relative;
     float: right;
+    clear: both;
     top: 0;
     right: 0;
     width: 30%;
@@ -43,14 +44,17 @@ main {
     border-radius: 5px;
 }
 
-.section-title: nth-child(1) {
-    background-colour: green;
+.section-title {
+    background-color:#f00
 }
-.section-title: nth-child(2) {
-    background-colour: red;
+.section-title:nth-child(1) {
+    background-color: #f00;
 }
-.section-title: nth-child(3) {
-    background-colour: blue;
+.section-title:nth-child(2) {
+    background-color: #0f0;
+}
+.section-title:nth-child(3) {
+    background-color: #00f;
 }
 
 @media (min-width: 992px) {
