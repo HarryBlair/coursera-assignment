@@ -28,14 +28,15 @@ main {
 
 .section-title {
     position: relative;
-    top: 5%;
-    left: 80%;
+    top: 0;
+    left: 0;
     font-size: 18px;
     font-weight: bold;
     color: #333;
     background-color: white;
     padding: 10px;
     border: 1px solid #333;
+    border-radius: 5px;
 }
 
 @media (min-width: 992px) {
