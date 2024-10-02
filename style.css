@@ -27,13 +27,13 @@ main {
 }
 
 .section-title {
-    position: absolute;
+    position: relative;
     top: 5%;
     left: 80%;
     font-size: 18px;
     font-weight: bold;
     color: #333;
-    background-color: #666;
+    background-color: white;
     padding: 10px;
     border: 1px solid #333;
 }
