@@ -40,6 +40,17 @@ main {
     border: 1px solid #333;
 }
 
+.section-title {
+  background-color: #f00;
+}
+
+.section-title:nth-child(2) {
+  background-color: #0f0;
+}
+
+.section-title:nth-child(3) {
+  background-color: #00f;
+}
 
 @media (min-width: 992px) {
     .section {
