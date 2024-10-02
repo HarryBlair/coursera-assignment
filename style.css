@@ -44,11 +44,11 @@ main {
   background-color: #f00;
 }
 
-.section-title:nth-child(2) {
+.section-title:nth-of-type(2) {
   background-color: #0f0;
 }
 
-.section-title:nth-child(3) {
+.section-title:nth-of-type(3) {
   background-color: #00f;
 }
 
