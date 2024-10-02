@@ -28,7 +28,7 @@ main {
 
 .section-title {
     position: relative;
-    top: 0%;
+    top: 0;
     right: 85%;
     width: 30%;
     white-space: nowrap;
