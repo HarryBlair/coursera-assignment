@@ -44,6 +44,7 @@ main {
 @media (min-width: 992px) {
     .section {
         width: 33%;
+        display: inline-block;
     }
 }
 
