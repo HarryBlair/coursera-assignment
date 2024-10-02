@@ -28,8 +28,9 @@ main {
 
 .section-title {
     position: relative;
+    float: right;
     top: 0;
-    left: 85%;
+    right: 0;
     width: 30%;
     white-space: nowrap;
     font-size: 18px;
