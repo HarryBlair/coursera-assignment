@@ -40,15 +40,15 @@ main {
     border: 1px solid #333;
 }
 
-.section-title {
+#beeftitle {
   background-color: #f00;
 }
 
-.section-title:nth-of-type(2) {
+#chickentitle {
   background-color: #0f0;
 }
 
-.section-title:nth-of-type(3) {
+#sushititle {
   background-color: #00f;
 }
 
