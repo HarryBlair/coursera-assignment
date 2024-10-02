@@ -45,6 +45,7 @@ main {
     .section {
         width: 28%;
         display: inline;
+        justify-content: space-between;
     }
 }
 
